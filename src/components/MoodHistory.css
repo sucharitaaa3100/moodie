@@ -1,0 +1,46 @@
+.mood-history {
+    background-color: #fdfdfd;
+    padding: 2rem;
+    border-radius: 20px;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    color: #333;
+  }
+  
+  .mood-entry {
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(200, 200, 200, 0.1);
+    padding: 1rem;
+  }
+  
+  .icon-container {
+    text-align: center;
+  }
+  
+  .icon {
+    font-size: 1.8rem;
+  }
+  
+  .icon.positive {
+    color: #8ac926;
+  }
+  
+  .icon.negative {
+    color: #ff595e;
+  }
+  
+  .icon.neutral {
+    color: #ffca3a;
+  }
+  
+  .sentiment-label {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+    color: #555;
+  }
+  

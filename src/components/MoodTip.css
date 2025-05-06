@@ -1,0 +1,34 @@
+.mood-tip {
+    background-color: #f1fdf8;
+    padding: 2rem;
+    border-radius: 20px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    color: #444;
+  }
+  
+  .tip-box {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .icon {
+    font-size: 3rem;
+    color: #8ac926;
+    margin-bottom: 1rem;
+  }
+  
+  .tip-text {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #4b4b4b;
+    text-align: center;
+  }
+  

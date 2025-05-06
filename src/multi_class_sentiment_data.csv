@@ -1,0 +1,33 @@
+text,sentiment
+"I am so happy today!",happy
+"This is really frustrating.",angry
+"I'm feeling a bit down.",sad
+"It was an average day.",neutral
+"That news made me excited!",happy
+"I feel hopeless right now.",sad
+"Why did this happen again?",angry
+"Nothing special happened.",neutral
+"I'm thrilled about the opportunity!",happy
+"This makes me so mad.",angry
+"I'm heartbroken and tired.",sad
+"I'm indifferent to it.",neutral
+"Everything is going great!",happy
+"Stop bothering me!",angry
+"I miss those days so much.",sad
+"I don’t care either way.",neutral
+"My day has been fantastic!",happy
+"You’re making me lose my temper.",angry
+"I can't stop crying.",sad
+"I'm not sure how I feel.",neutral
+"What a joyful surprise!",happy
+"Why is this always so difficult?",angry
+"Life feels really heavy now.",sad
+"It’s just another day.",neutral
+"I'm smiling from ear to ear!",happy
+"This situation pisses me off.",angry
+"I'm emotionally drained.",sad
+"I'm fine, I guess.",neutral
+"So excited for the weekend!",happy
+"I'm about to explode in anger!",angry
+"I feel lost and empty.",sad
+"It doesn't bother me.",neutral
